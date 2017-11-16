@@ -1,5 +1,10 @@
-import winsound, time, os, platform
+"""
+Project : Alarm Clock
+Author : Ajeet
+Date : 10/11/2016
+"""
 
+import winsound, time, os, platform
 
 def sound():
 
